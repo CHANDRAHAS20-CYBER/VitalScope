@@ -1,3 +1,5 @@
+VITALSCOPE
+
 Real-time wearable multi-parameter health monitoring system using ESP32-C3
 
 📌 Project Overview
